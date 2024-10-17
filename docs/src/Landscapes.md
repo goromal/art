@@ -1,5 +1,7 @@
 # Landscapes
 
+![](./img/beach_family.png "A Beach Family")
+
 ![](./img/Exodus.png "Exodus")
 
 ![](./img/Sunday_Walks.png "Sunday Walks")
