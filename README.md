@@ -1,6 +1,6 @@
 # Art
 
-A selection of art-related projects.
+A selection of my art-related projects.
 
 To generate updated docs, run
 
