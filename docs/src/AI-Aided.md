@@ -1,4 +1,4 @@
-# AI-Aided
+# AI-Aided Art
 
 A collection of "AI-expedited" digital paintings where I painted the basic composition and colors, had AI fill in detail, and then touched them up.
 
