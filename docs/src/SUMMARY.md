@@ -4,4 +4,5 @@
 - [Landscapes](./Landscapes.md)
 - [Dots To Pixels](./Dots_To_Pixels.md)
 - [Amalgamations](./Amalgamations.md)
+- [AI-Aided](./AI-Aided.md)
 
