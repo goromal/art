@@ -8,6 +8,8 @@ A collection of "AI-expedited" digital paintings where I painted the basic compo
 
 ![](https://raw.githubusercontent.com/goromal/anixdata/master/data/img/wallpaper5.png "Wallpaper 5")
 
+![](https://raw.githubusercontent.com/goromal/anixdata/master/data/img/wallpaper30.png "Wallpaper 30")
+
 ![](https://raw.githubusercontent.com/goromal/anixdata/master/data/img/wallpaper6.png "Wallpaper 6")
 
 ![](https://raw.githubusercontent.com/goromal/anixdata/master/data/img/wallpaper7.png "Wallpaper 7")
