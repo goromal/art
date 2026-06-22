@@ -2,7 +2,13 @@
 
 A collection of "AI-expedited" digital paintings where I painted the basic composition and colors, had AI fill in detail, and then touched them up.
 
+![](https://raw.githubusercontent.com/goromal/anixdata/master/data/img/wallpaper32.png "Wallpaper 32")
+
+![](https://raw.githubusercontent.com/goromal/anixdata/master/data/img/wallpaper33.png "Wallpaper 33")
+
 ![](https://raw.githubusercontent.com/goromal/anixdata/master/data/img/wallpaper2.png "Wallpaper 2")
+
+![](https://raw.githubusercontent.com/goromal/anixdata/master/data/img/wallpaper31.png "Wallpaper 31")
 
 ![](https://raw.githubusercontent.com/goromal/anixdata/master/data/img/wallpaper3.png "Wallpaper 3")
 
