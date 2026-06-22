@@ -6,8 +6,8 @@ A selection of art-related projects.
 
 [Return to main site](https://andrewtorgesen.com)
 
+- [Landscapes](./Landscapes.md)
 - [AI-Aided](./AI-Aided.md)
 - [Amalgamations](./Amalgamations.md)
-- [Landscapes](./Landscapes.md)
 - [Dots To Pixels](./Dots_To_Pixels.md)
 
